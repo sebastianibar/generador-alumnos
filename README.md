@@ -101,7 +101,7 @@ INSERT INTO alumnos VALUES
 ![Formatos disponibles](Imagenes/formatos.png)
 
 ### Resultado generado (SQL con 50,000 registros)
-![Resultado generado](Imagenes/resultado.png)
+![Resultado generado](Imagenes/resultados.png)
 
 ## Desarrollado por
 
