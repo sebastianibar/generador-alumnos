@@ -22,6 +22,8 @@ generador-datos-alumnos/
 │   └── resultado.png
 ├── js/
 │   └── function.js        # Listas de nombres/apellidos y funciones de generación
+├── css/
+│   └── style.css 
 ├── generador.html         # Interfaz de la herramienta (incluye sus estilos)
 ├── archivo.sql            # Tabla de referencia y pruebas de integridad
 └── README.md
@@ -93,13 +95,13 @@ INSERT INTO alumnos VALUES
 ## Capturas
 
 ### Pantalla principal
-![Pantalla principal](imagenes/interfaz.png)
+![Pantalla principal](Imagenes/interfaz.png)
 
 ### Selección del tipo de archivo
-![Formatos disponibles](imagenes/formatos.png)
+![Formatos disponibles](Imagenes/formatos.png)
 
 ### Resultado generado (SQL con 50,000 registros)
-![Resultado generado](imagenes/resultado.png)
+![Resultado generado](Imagenes/resultado.png)
 
 ## Desarrollado por
 
